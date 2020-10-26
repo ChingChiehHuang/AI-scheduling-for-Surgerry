@@ -7,6 +7,12 @@ Many hospitals have encountered challenges in performing efficient scheduling an
 **The manuscript is under review now. The link will release after the accept.**
 **You can first preview on the MedRxiv: https://www.medrxiv.org/content/10.1101/2020.06.10.20127910v1**
 
+## Instructions and Navigations
+
+For the data processing, we can refrence the file: `Scheduling_Data_Clean.r`; and the model development, please reference the file: `Scheduling_Models.R`.
+
+With the following software and hardware list you can run all code files present in the github.
+
 ### Software and Hardware List
 | Software required                   | Hardware required                        
 | ------------------------------------| -----------------------------------|
