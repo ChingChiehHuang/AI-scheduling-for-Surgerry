@@ -4,7 +4,8 @@
 
 Many hospitals have encountered challenges in performing efficient scheduling and good resource management to ensure the quality of health care provided to patients is not compromised. Operation room scheduling is one of the issues that gains lots of attention because it is related to workflow efficiency and critical care of hospitals. We provide precise prediction of operation case duration with advanced artificial intelligence algorithms.
 
-**The manuscript is under review now!!! The link will release after accept**
+**The manuscript is under review now. The link will release after the accept**
+**You can first preview on the MedRxiv:https://www.medrxiv.org/content/10.1101/2020.06.10.20127910v1**
 
 ### Software and Hardware List
 | Software required                   | Hardware required                        
@@ -26,14 +27,3 @@ The authors declare that they have no compe
 
 ## Acknowledgments
 The authors would like to thank Min-Hsuan Lu and the department of administration and man-agement in CMUH in the assistance of dat
-
-
-
-2.Prerequisites (要執行你的程式需要安裝哪些工具、套件，例如R的版本、R的packages)
-
-3.如何安裝或編譯你的程式 (不用安裝也不用編譯的話則不用寫這部分)
-
-4.如何執行你的程式 (train/predict時要用哪個檔案執行什麼指令，能附帶範例更好)
-
-5.想重點呈現的paper results
-
