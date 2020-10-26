@@ -1,5 +1,5 @@
 # AI scheduling for Surgery
-
+![image](https://github.com/ChingChiehHuang/AI-scheduling-for-Surgerry/blob/master/Sched.PNG)
 ## What is this project about?
 
 Many hospitals have encountered challenges in performing efficient scheduling and good resource management to ensure the quality of health care provided to patients is not compromised. Operation room scheduling is one of the issues that gains lots of attention because it is related to workflow efficiency and critical care of hospitals. We provide precise prediction of operation case duration with advanced artificial intelligence algorithms.
