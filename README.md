@@ -16,7 +16,7 @@ Many hospitals have encountered challenges in performing efficient scheduling an
 
 ## Data availability
 
-The minimum dataset (March to April 2020) used in time-wise evaluation for this study is availablefrom our web site:  https://cmuhopai.azurewebsites.net/.  ebsites.net/.  The dataset required to replicate modeltraining  and  internal  evaluation  contains  personal  data  and  is  not  publicly  available,  in  keepingwith the Data Protection Policy 
+The minimum dataset (March to April 2020) used in time-wise evaluation for this study is available from our web site: https://cmuhopai.azurewebsites.net/. The dataset required to replicate model training and internal evaluation contains personal data and is not publicly available, in keeping with the Data Protection Policy of CMUH.
 
 ##  Materials & correspondence
 
@@ -25,5 +25,5 @@ The minimum dataset (March to April 2020) used in time-wise evaluation for this 
 ## Competing interests
 The authors declare that they have no competing interests.
 
-## Acknowledgments
-The authors would like to thank Min-Hsuan Lu and the department of administration and management in CMUH in the assistance of dat
+## Acknowledgmen
+The authors would like to thank Min-Hsuan Lu and the department of administration and management in CMUH in the assistance of data collection. 
