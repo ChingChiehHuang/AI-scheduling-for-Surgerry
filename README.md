@@ -25,5 +25,5 @@ The minimum dataset (March to April 2020) used in time-wise evaluation for this 
 ## Competing interests
 The authors declare that they have no competing interests.
 
-## Acknowledgmen
+## Acknowledgments
 The authors would like to thank Min-Hsuan Lu and the department of administration and management in CMUH in the assistance of data collection. 
