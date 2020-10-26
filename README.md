@@ -23,7 +23,7 @@ The minimum dataset (March to April 2020) used in time-wise evaluation for this 
 **Correspondence and requests for materials should be addressed to Jiaxin Yu (email: jiaxin.yu@mail.cmuh.org.tw).**
 
 ## Competing interests
-The authors declare that they have no compe
+The authors declare that they have no competing interests.
 
 ## Acknowledgments
-The authors would like to thank Min-Hsuan Lu and the department of administration and man-agement in CMUH in the assistance of dat
+The authors would like to thank Min-Hsuan Lu and the department of administration and management in CMUH in the assistance of dat
