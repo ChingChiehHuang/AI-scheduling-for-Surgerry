@@ -4,8 +4,7 @@
 
 Many hospitals have encountered challenges in performing efficient scheduling and good resource management to ensure the quality of health care provided to patients is not compromised. Operation room scheduling is one of the issues that gains lots of attention because it is related to workflow efficiency and critical care of hospitals. We provide precise prediction of operation case duration with advanced artificial intelligence algorithms.
 
-**The manuscript is under review now. The link will release after the accept.**
-**You can first preview on the MedRxiv: https://www.medrxiv.org/content/10.1101/2020.06.10.20127910v1**
+**The manuscript for this study is under review. The manuscript will be released once it is ready. The preprint can be found in MedRxiv: https://www.medrxiv.org/content/10.1101/2020.06.10.20127910v1**
 
 ## Instructions and Navigations
 
