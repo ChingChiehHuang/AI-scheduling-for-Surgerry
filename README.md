@@ -8,7 +8,7 @@ Many hospitals have encountered challenges in performing efficient scheduling an
 
 ## Instructions and Navigations
 
-For the data processing, we can refrence the file: `Scheduling_Data_Clean.r`; And for the model development, please reference the file: `Scheduling_Models.R`.
+For the data processing, please reference the file: `Scheduling_Data_Clean.r`; And for the model development, please reference the file: `Scheduling_Models.R`.
 
 With the following software and hardware list you can run all code files present in the github.
 
