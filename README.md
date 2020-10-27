@@ -21,7 +21,7 @@ With the following software and hardware list you can run all code files present
 
 ## Data availability
 
-The minimum dataset (March to April 2020) used in time-wise evaluation for this study is available from our web site: https://cmuhopai.azurewebsites.net/. The dataset required to replicate model training and internal evaluation contains personal data and is not publicly available, in keeping with the Data Protection Policy of CMUH.
+The minimum dataset (March to April 2020) used in time-wise evaluation for this study is available from our web site: https://cmuhopai.azurewebsites.net/. The dataset required to replicate model training and internal evaluation contains personal data and is not publicly available, in keeping with the Data Protection Policy of China Medical University Hospital (CMUH).
 
 ##  Materials & correspondence
 
